@@ -127,13 +127,6 @@
                     </modules>
                 </args>
             </catalog>
-            <catalogsearch>
-                <args>
-                    <modules>
-                        <Catalin_SEO before="Mage_CatalogSearch">Catalin_SEO</Catalin_SEO>
-                    </modules>
-                </args>
-            </catalogsearch>
         </routers>
         <layout>
             <updates>
